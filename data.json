@@ -2,7 +2,7 @@
   {
     "name": "C. elegans",
     "neuron_count": 302,
-    "test": true
+    "test": "TEST"
   },
   {
     "name": "D. rerio",
